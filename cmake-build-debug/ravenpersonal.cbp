@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ravenpersonal"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ravenpersonal">
+				<Option output="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/ravenpersonal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ravenpersonal"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ravenpersonal/fast">
+				<Option output="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/ravenpersonal" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 ravenpersonal/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/experiments_2_2_9.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/random_num.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiment_2_4_1.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiment_cm_feet_trans.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiments_gallon_liter_trans.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/test.c">
+			<Option target="ravenpersonal"/>
+		</Unit>
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
