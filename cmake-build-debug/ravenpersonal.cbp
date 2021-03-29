@@ -78,22 +78,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/experiments_2_2_9.c">
-			<Option target="ravenpersonal"/>
-		</Unit>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/random_num.c">
-			<Option target="ravenpersonal"/>
-		</Unit>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiment_2_4_1.c">
-			<Option target="ravenpersonal"/>
-		</Unit>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiment_cm_feet_trans.c">
-			<Option target="ravenpersonal"/>
-		</Unit>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiments_gallon_liter_trans.c">
-			<Option target="ravenpersonal"/>
-		</Unit>
-		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/test.c">
+		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/experiment_2_3_1.c">
 			<Option target="ravenpersonal"/>
 		</Unit>
 		<Unit filename="/Users/zlw/CLionProjects/ravenpersonal/CMakeLists.txt">

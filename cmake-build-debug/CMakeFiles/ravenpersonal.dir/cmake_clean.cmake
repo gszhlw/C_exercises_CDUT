@@ -1,10 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ravenpersonal.dir/experiment_2_4_1.c.o"
-  "CMakeFiles/ravenpersonal.dir/experiment_cm_feet_trans.c.o"
-  "CMakeFiles/ravenpersonal.dir/experiments_2_2_9.c.o"
-  "CMakeFiles/ravenpersonal.dir/experiments_gallon_liter_trans.c.o"
-  "CMakeFiles/ravenpersonal.dir/random_num.c.o"
-  "CMakeFiles/ravenpersonal.dir/test.c.o"
+  "CMakeFiles/ravenpersonal.dir/experiment_2_3_1.c.o"
   "ravenpersonal"
   "ravenpersonal.pdb"
 )

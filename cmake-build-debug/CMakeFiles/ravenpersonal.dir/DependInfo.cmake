@@ -4,12 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/zlw/CLionProjects/ravenpersonal/experiment_2_4_1.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/experiment_2_4_1.c.o"
-  "/Users/zlw/CLionProjects/ravenpersonal/experiment_cm_feet_trans.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/experiment_cm_feet_trans.c.o"
-  "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/experiments_2_2_9.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/experiments_2_2_9.c.o"
-  "/Users/zlw/CLionProjects/ravenpersonal/experiments_gallon_liter_trans.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/experiments_gallon_liter_trans.c.o"
-  "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/random_num.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/random_num.c.o"
-  "/Users/zlw/CLionProjects/ravenpersonal/test.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/test.c.o"
+  "/Users/zlw/CLionProjects/ravenpersonal/experiment_2_3_1.c" "/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles/ravenpersonal.dir/experiment_2_3_1.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

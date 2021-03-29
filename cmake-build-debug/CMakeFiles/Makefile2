@@ -74,12 +74,12 @@ clean: CMakeFiles/ravenpersonal.dir/clean
 CMakeFiles/ravenpersonal.dir/all:
 	$(MAKE) -f CMakeFiles/ravenpersonal.dir/build.make CMakeFiles/ravenpersonal.dir/depend
 	$(MAKE) -f CMakeFiles/ravenpersonal.dir/build.make CMakeFiles/ravenpersonal.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target ravenpersonal"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target ravenpersonal"
 .PHONY : CMakeFiles/ravenpersonal.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ravenpersonal.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles 7
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/ravenpersonal.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/zlw/CLionProjects/ravenpersonal/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/ravenpersonal.dir/rule

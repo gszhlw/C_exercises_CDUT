@@ -53,5 +53,46 @@
 //    fputs("This is testing for fputs...456\n", fp);
 //    fclose(fp);
 //}
+//#include "stdio.h"
+//#include "string.h"
+//void main()
+//{
+//    char a[6]="china";
+//    char temp[1024];
+//    int n=0;//记录有多少个china
+//    FILE *outFile=fopen("b.txt","r+");
+//    FILE *inFile=fopen("a.txt","r+");
+//    while(fgets(temp,500,inFile)!=NULL)
+//    {
+//        int k=0;
+//        for(int i=0;i<strlen(temp);i++)
+//        {
+//            if(temp[i]==a[k] && k<strlen(a))
+//            {
+//                k++;
+//            }
+//            else
+//            {
+//                if(k==strlen(a))
+//                {
+//                    n++;
+//                    fprintf(outFile,"%s",a);
+//                }
+//                k=0;
+//            }
+//        }
+//    }
+//}
 
 
+#include <stdio.h>
+
+int main()
+{
+    FILE *fp = NULL;
+
+    fp = fopen("/Users/zlw/Downloads/test.txt", "w+");
+    fprintf(fp, "This is testing for fprintf...\n");
+    fputs("This is testing for fputs...\n", fp);
+    fclose(fp);
+}
